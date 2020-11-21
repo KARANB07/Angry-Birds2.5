@@ -60,7 +60,7 @@ function draw(){
     box5.display();
     log4.display();
     log5.display();
-
+    //coolkid
     bird.display();
     platform.display();
 }
